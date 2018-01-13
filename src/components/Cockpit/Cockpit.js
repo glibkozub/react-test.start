@@ -1,4 +1,5 @@
 import React from 'react';
+
 import classes from './Cockpit.css';
 
 import Aux from '../../hoc/_Aux';
